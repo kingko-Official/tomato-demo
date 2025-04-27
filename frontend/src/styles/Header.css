@@ -1,0 +1,16 @@
+.header {
+    background-color: #388e3c;
+  }
+  
+  .logo {
+    transition: transform 0.3s ease;
+  }
+  
+  .logo:hover {
+    transform: rotate(10deg);
+  }
+  
+  .title {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
